@@ -1,5 +1,5 @@
 #### Write your implementation of testing framework and assertion. Only after completing this go forward.
-
+- The jobs of testing framework is to display a friendly framework about what is passed and what is failed. 
 #### Write two tests for the following functions using test framework assertion
 
 #### Add two number
@@ -9,6 +9,8 @@
 3. Throw an error when the arguments passed in not a number.
 4. Make first test fail and see if you get the result of second test.
 5. If not fix it using the test framework (try...catch) we learned in the testing framework video.
+
+
 
 #### Multiply two numbers
 
